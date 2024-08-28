@@ -1,0 +1,19 @@
+
+.navigation{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 25px;
+    height: 72px;
+    margin-top: 10px;
+    /* background-color: rgb(222, 216, 207); */
+  
+  }
+   
+  .navigation ul{
+    display: flex;
+    gap: 35px;
+    list-style: none;
+    font-size: larger;
+    font-weight: 500;
+  }
